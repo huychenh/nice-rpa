@@ -1,0 +1,11 @@
+NICE Case Study:
+1. Open website: https://www.distancefromto.net
+2. Input texts: 
+	+ Distance from: London
+	+ Distance to: Berlin
+	
+3. Click button "Measure Distance"
+4. Get text from textbox "Distance in km" and show message
+5. Get text from textbox "Distance in miles" and show message
+6. Get text from textbox "Distance in nautical miles" and show message
+7. Close the browser and end.
